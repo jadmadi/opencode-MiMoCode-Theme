@@ -3,6 +3,8 @@
 Warm dark and light theme for [OpenCode](https://opencode.ai) with
 signature orange accents. Ported from
 [zed-mimoCode-theme](https://github.com/jadmadi/zed-mimoCode-theme).
+Brand inspired by [Xiaomi's MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code).
+Unofficial fan theme, no affiliation.
 
 ![MiMoCode preview](preview.svg)
 
@@ -47,6 +49,15 @@ Restart OpenCode.
 | Accent     | `#818CF8` | `#4338CA` |
 | Error      | `#FB7185` | `#E11D48` |
 | Warning    | `#FBBF24` | `#B45309` |
+
+## Referrals
+
+New to OpenCode? Sign up with my link:
+https://opencode.ai/go?ref=N9H3ZEP22A
+
+Trying Xiaomi MiMo? Bind invite code `8ACN29` for 10 percent off
+your first paid Token Plan order:
+https://platform.xiaomimimo.com?ref=8ACN29
 
 ## License
 
