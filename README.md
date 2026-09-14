@@ -4,6 +4,8 @@ Warm dark and light theme for [OpenCode](https://opencode.ai) with
 signature orange accents. Ported from
 [zed-mimoCode-theme](https://github.com/jadmadi/zed-mimoCode-theme).
 
+![MiMoCode preview](preview.svg)
+
 Dark mode uses warm-black surfaces with vivid orange, indigo, and amber
 accents. Light mode uses warm cream surfaces with the same accent family.
 
